@@ -5,5 +5,7 @@ By Yapeng Tian.
 
 ##Important Papers
 [1] Freeman, William T and Jones, Thouis R and Pasztor, Egon C, Example-based super-resolution, IEEE Computer graphics and Applications, 2002.    [[Paper]](http://www.merl.com/publications/docs/TR2001-30.pdf)
+
 [2] Chang, Hong and Yeung, Dit-Yan and Xiong, Yimin, Super-resolution through neighbor embedding, CVPR 2004. [[Paper]](http://repository.ust.hk/ir/bitstream/1783.1-2284/1/yeung.cvpr2004.pdf)
 
+[3] Yang, Jianchao and Wright, John and Huang, Thomas S and Ma, Yi, Image super-resolution via sparse representation, IEEE trans. image processing 2010. [[paper]](www.ideals.illinois.edu/bitstream/handle/2142/16479/yang_jianchao.pdf?sequence=1) [[Code]](http://www.ifp.illinois.edu/~jyang29/)
