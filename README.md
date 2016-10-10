@@ -28,3 +28,9 @@ By Yapeng Tian.
 [3] Yang, Chih-Yuan and Yang, Ming-Hsuan, Fast direct super-resolution by simple functions, ICCV, 2013. [[Paper]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Yang_Fast_Direct_Super-Resolution_2013_ICCV_paper.pdf) [[Website]](https://eng.ucmerced.edu/people/cyang35/ICCV13/ICCV13.html) 
 
 [4] Timofte, Radu and De Smet, Vincent and Van Gool, Luc, A+: Adjusted anchored neighborhood regression for fast super-resolution, ACCV, 2014. [[Paper]](https://pdfs.semanticscholar.org/ca57/66b91da4903ad6f6d40a5b31a3ead1f7f6de.pdf) [[Website]](http://www.vision.ee.ethz.ch/~timofter/) (More data and better performance!)
+
+[5] Schulter, Samuel and Leistner, Christian and Bischof, Horst, Fast and accurate image upscaling with super-resolution forests, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf) [[Code]] (http://lrs.icg.tugraz.at/members/schulter#software)
+
+[6] Salvador, Jordi, and Eduardo Pérez-Pellitero, Naive Bayes Super-Resolution Forest, ICCV, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Salvador_Naive_Bayes_Super-Resolution_ICCV_2015_paper.pdf) [[Website]](http://perezpellitero.github.io/) (Very fast!)
+
+[7] E. Pérez-Pellitero and J. Salvador and J. Ruiz-Hidalgo and B. Rosenhahn, PSyCo: Manifold Span Reduction for Super Resolution, CVPR, 2016. [[Paper]](http://perezpellitero.github.io/documents/PerezPellitero2016Cvpr.pdf) [[Website]](http://perezpellitero.github.io/) (choose a better distance metric!)
