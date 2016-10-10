@@ -1,7 +1,7 @@
 # Single-Image-Super-Resolution
 A list of resources for example-based single image super-resolution, inspired by [Awesome-deep-vision] (https://github.com/kjw0612/awesome-deep-vision).
 
-By Yapeng Tian.
+By Yapeng Tian (if you have any suggestions, please contact me! Email: typ14@mails.tsinghua.edu.cn).
 
 ##Important Papers
 ###External example-based methods
