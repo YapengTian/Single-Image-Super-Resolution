@@ -21,3 +21,4 @@ By Yapeng Tian.
 
 ####Locally Linear Regression
 
+[1] Gu, Shuhang and Sang, Nong and Ma, Fan, Fast Image Super Resolution via Local Regression, ICPR, 2012. [[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6460827]] (Kmeans clusetering + ridge regression)
