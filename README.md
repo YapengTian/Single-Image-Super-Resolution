@@ -35,5 +35,16 @@ By Yapeng Tian (if you have any suggestions, please contact me! Email: typ14@mai
 
 [7] E. Pérez-Pellitero and J. Salvador and J. Ruiz-Hidalgo and B. Rosenhahn, PSyCo: Manifold Span Reduction for Super Resolution, CVPR, 2016. [[Paper]](http://perezpellitero.github.io/documents/PerezPellitero2016Cvpr.pdf) [[Website]](http://perezpellitero.github.io/) (choose a better distance metric!)
 
-####Deep Architecture
+####Deep Architectures
+
+[1] Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a deep convolutional network for image super-resolution, ECCV, 2014. [[Website]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) (first introduce CNN to solve single image super-resolution.)
+
+[2] Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Image Super-Resolution Using Deep Convolutional Networks, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2016. [[Website]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) (use more training data and achieve better SR performance.)
+
+[3] Wang, Zhaowen and Liu, Ding and Yang, Jianchao and Han, Wei and Huang, Thomas, Deep networks for image super-resolution with sparse prior, ICCV, 2015. [[Website]](http://www.ifp.illinois.edu/~dingliu2/iccv15/) 
+
+[4] Jimmy SJ. Ren, Li Xu, Qiong Yan, Wenxiu Sun, Shepard Convolutional Neural Networks, NIPS, 2015. [[Paper]](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf) [[Code]](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
+
+[5] 
+
 
