@@ -6,7 +6,7 @@ By Yapeng Tian (if you have any suggestions, please contact me! Email: typ14@mai
 ##Important Papers
 ###Example-based methods
 
-####Pioneers
+####Early learning-based methods
 
 [1] Freeman, William T and Pasztor, Egon C and Carmichael, Owen T, Learning low-level vision, IJCV, 2000. [[Paper]](http://people.csail.mit.edu/billf/papers/TR2000-05.pdf) ([Freeman](billf.mit.edu) et al. first presented example-based or learning-based super-resolution framework - learn relationships between low-resolution image pathes and its high-resolution counterparts.)
 
