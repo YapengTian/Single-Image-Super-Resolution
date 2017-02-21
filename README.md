@@ -1,5 +1,5 @@
 # Single-Image-Super-Resolution
-A list of resources for example-based single image super-resolution, inspired by [Awesome-deep-vision] (https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision] (https://github.com/jbhuang0604/awesome-computer-vision) .
+A list of resources for example-based single image super-resolution, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
 
 By Yapeng Tian (if you have any suggestions, please contact me! Email: typ14@mails.tsinghua.edu.cn).
 
@@ -37,7 +37,7 @@ By Yapeng Tian (if you have any suggestions, please contact me! Email: typ14@mai
 
 [4] Timofte, Radu and De Smet, Vincent and Van Gool, Luc, A+: Adjusted anchored neighborhood regression for fast super-resolution, ACCV, 2014. [[Paper]](https://pdfs.semanticscholar.org/ca57/66b91da4903ad6f6d40a5b31a3ead1f7f6de.pdf) [[Website]](http://www.vision.ee.ethz.ch/~timofter/) (More data and better performance!)
 
-[5] Schulter, Samuel and Leistner, Christian and Bischof, Horst, Fast and accurate image upscaling with super-resolution forests, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf) [[Code]] (http://lrs.icg.tugraz.at/members/schulter#software)
+[5] Schulter, Samuel and Leistner, Christian and Bischof, Horst, Fast and accurate image upscaling with super-resolution forests, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf) [[Code]](http://lrs.icg.tugraz.at/members/schulter#software)
 
 [6] Salvador, Jordi, and Eduardo Pérez-Pellitero, Naive Bayes Super-Resolution Forest, ICCV, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Salvador_Naive_Bayes_Super-Resolution_ICCV_2015_paper.pdf) [[Website]](http://perezpellitero.github.io/) (Very fast!)
 
@@ -73,7 +73,7 @@ By Yapeng Tian (if you have any suggestions, please contact me! Email: typ14@mai
 
 [13] Joan Bruna, Pablo Sprechmann, Yann LeCun, SUPER-RESOLUTION WITH DEEP CONVOLUTIONAL SUFFICIENT STATISTICS, ICLR, 2016. [[Paper]](https://arxiv.org/pdf/1511.05666.pdf) (Perceptual Loss)
 
-[14] Mehdi S. M. Sajjadi, Bernhard Schölkopf, Michael Hirsch, EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, arXiv, 2016. [[Paper]] (https://arxiv.org/abs/1612.07919v1) (adversarial training + Texture matching loss to reduce unnatural textures produced by perceptual loss)
+[14] Mehdi S. M. Sajjadi, Bernhard Schölkopf, Michael Hirsch, EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, arXiv, 2016. [[Paper]](https://arxiv.org/abs/1612.07919v1) (adversarial training + Texture matching loss to reduce unnatural textures produced by perceptual loss)
 
 
 
