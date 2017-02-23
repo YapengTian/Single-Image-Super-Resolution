@@ -75,6 +75,8 @@ By Yapeng Tian (if you have any suggestions, please contact me! Email: typ14@mai
 
 [14] Mehdi S. M. Sajjadi, Bernhard Schölkopf, Michael Hirsch, EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, arXiv, 2016. [[Paper]](https://arxiv.org/abs/1612.07919v1) (adversarial training + Texture matching loss to reduce unnatural textures produced by perceptual loss)
 
+[15] Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár, Amortised MAP Inference for Image Super-resolution, arXiv, 2016. [[Paper]](https://arxiv.org/pdf/1610.04490v3.pdf) (calculate the MAP estimate directly using a convolutional neural network)
+
 
 
 
