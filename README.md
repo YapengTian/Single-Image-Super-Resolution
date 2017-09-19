@@ -92,7 +92,7 @@ By Yapeng Tian (if you have any suggestions, please contact me! Email: yapengtia
 
 [22] Radu Timofte et al. NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results, CVPRW, 2017. [[Paper]](http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-CVPRW-2017.pdf)
 
-[23] Jin Yamanaka, Shigesumi Kuwashima and Takio Kurita: Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network, ICONIPS, 2017. [[code]](https://github.com/jiny2001/dcscn-super-resolution) [[Paper]](https://arxiv.org/pdf/1707.05425.pdf)
+[23] Jin Yamanaka, Shigesumi Kuwashima and Takio Kurita: Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network, ICONIPS, 2017. [[Code]](https://github.com/jiny2001/dcscn-super-resolution) [[Paper]](https://arxiv.org/pdf/1707.05425.pdf)
 
 
 
