@@ -94,5 +94,7 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 [23] Jin Yamanaka, Shigesumi Kuwashima and Takio Kurita: Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network, ICONIPS, 2017. [[Paper]](https://arxiv.org/pdf/1707.05425.pdf)[[Code]](https://github.com/jiny2001/dcscn-super-resolution) 
 
+[24] Tong Tong, Gen Li, Xiejie Liu, Qinquan Gao. Image Super-Resolution Using Dense Skip Connections. ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
+
 
 
