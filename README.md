@@ -74,7 +74,7 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 [13] Joan Bruna, Pablo Sprechmann, Yann LeCun, SUPER-RESOLUTION WITH DEEP CONVOLUTIONAL SUFFICIENT STATISTICS, ICLR, 2016. [[Paper]](https://arxiv.org/pdf/1511.05666.pdf) (Perceptual Loss)
 
-[14] Mehdi S. M. Sajjadi, Bernhard Schölkopf, Michael Hirsch, EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, arXiv, 2016. [[Paper]](https://arxiv.org/abs/1612.07919v1) (adversarial training + Texture matching loss to reduce unnatural textures produced by perceptual loss)
+[14] Mehdi S. M. Sajjadi, Bernhard Schölkopf, Michael Hirsch, EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Sajjadi_EnhanceNet_Single_Image_ICCV_2017_paper.pdf) (adversarial training + Texture matching loss to reduce unnatural textures produced by perceptual loss)
 
 [15] Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár, Amortised MAP Inference for Image Super-resolution, ICLR, 2017. [[Paper]](https://arxiv.org/pdf/1610.04490v3.pdf) (calculate the MAP estimate directly using a convolutional neural network)
 
