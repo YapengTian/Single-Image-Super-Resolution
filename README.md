@@ -96,5 +96,6 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 [24] Tong Tong, Gen Li, Xiejie Liu, Qinquan Gao. Image Super-Resolution Using Dense Skip Connections. ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
 
+[25] Yulun Zhang, Yapeng Tian, Yu Kong, Bineng Zhong, Yun Fu. Residual Dense Network for Image Super-Resolution. [[Paper]](https://arxiv.org/pdf/1802.08797.pdf) [[Code]](Coming Soon)
 
 
