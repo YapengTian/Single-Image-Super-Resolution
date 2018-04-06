@@ -102,4 +102,26 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 [27] Kai Zhang, Wangmeng Zuo, and Lei Zhang. Learning a Single Convolutional Super-Resolution Network for Multiple Degradations. CVPR 2018. [[Paper]](https://arxiv.org/pdf/1712.06116.pdf) [[code]](https://github.com/cszn/SRMD)
 
+[28] Adrian Bulat and Georgios Tzimiropoulos. Super-FAN: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with GANs. CVPR 2018. [[Paper]](https://arxiv.org/pdf/1712.02765.pdf)
 
+[29] Bjoern Haefner, Yvain Queau, Thomas Möllenhoff, and Daniel Cremers. Fight ill-posedness with ill-posedness: Single-shot variational depth super-resolution from shading. CVPR 2018.
+
+[30] Xintao Wang, Ke Yu, Chao Dong, and Chen-Change Loy. Recovering Realistic Texture in Image Super-resolution by Spatial Feature Modulation. CVPR 2018.
+
+[31] Zheng Hui, Xiumei Wang, and Xinbo Gao. Fast and Accurate Single Image Super-Resolution via Information Distillation Network. CVPR 2018. [[Paper]](https://arxiv.org/pdf/1803.09454.pdf)
+
+[32] Xin Yu, Basura Fernando, Richard Hartley, and Fatih Porikli. Super-Resolving Very Low-Resolution Face Images with Supplementary Attributes. CVPR 2018. [[Paper]](https://basurafernando.github.io/papers/XinYuCVPR18.pdf)
+
+[33] Wei Han, Shiyu Chang, Ding Liu, Michael Witbrock, and Thomas Huang. Image Super-resolution via Dual-state Recurrent Neural Networks. CVPR 2018.
+
+[34] Yu Chen, Ying Tai, Xiaoming Liu, Chunhua Shen, and Jian Yang. FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors. CVPR 2018. [[Paper]](https://arxiv.org/pdf/1711.10703.pdf)
+
+[35] Ying Qu, Hairong Qi, and Chiman Kwan. Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution. CVPR 2018.
+
+[36] Assaf Shocher, Nadav Cohen, and Michal Irani. “Zero-Shot” Super-Resolution using Deep Internal Learning. CVPR 2018. [[Paper]](https://arxiv.org/pdf/1712.06087.pdf)
+
+[37] Younghyun Jo, Seoung Wug Oh, JaeYeon Kang, and Seon Joo Kim. Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation. CVPR 2018.
+
+[38] Weimin Tan, Bo Yan, and Bahetiyaer Bare. Feature Super-Resolution: Make Machine See More Clearly. CVPR 2018.
+
+[39] Mehdi S. M. Sajjadi, Raviteja Vemulapalli, and Matthew Brown. Frame-Recurrent Video Super-Resolution. CVPR 2018. [[Paper]](https://arxiv.org/pdf/1801.04590.pdf)
