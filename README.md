@@ -112,7 +112,7 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 [32] Xin Yu, Basura Fernando, Richard Hartley, and Fatih Porikli. Super-Resolving Very Low-Resolution Face Images with Supplementary Attributes. CVPR 2018. [[Paper]](https://basurafernando.github.io/papers/XinYuCVPR18.pdf)
 
-[33] Wei Han, Shiyu Chang, Ding Liu, Michael Witbrock, and Thomas Huang. Image Super-resolution via Dual-state Recurrent Neural Networks. CVPR 2018.
+[33] Wei Han, Shiyu Chang, Ding Liu, Michael Witbrock, and Thomas Huang. Image Super-resolution via Dual-state Recurrent Neural Networks. CVPR 2018. [[Paper]](https://arxiv.org/pdf/1805.02704.pdf)
 
 [34] Yu Chen, Ying Tai, Xiaoming Liu, Chunhua Shen, and Jian Yang. FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors. CVPR 2018. [[Paper]](https://arxiv.org/pdf/1711.10703.pdf)
 
