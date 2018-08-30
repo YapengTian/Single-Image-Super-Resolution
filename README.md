@@ -135,3 +135,10 @@ A Fully Progressive Approach to Single-Image Super-Resolution. arXiv, 2018. [[Pa
 
 [43] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution:
 A Brief Review. arxiv, 2018. [[Paper]](https://arxiv.org/pdf/1808.03344.pdf) (a survey paper)
+
+[44] Adrian Bulat, Jing Yang, Georgios Tzimiropoulos. To learn image super-resolution, use a GAN to
+learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org/pdf/1807.11458.pdf) 
+
+[45] Namhyuk Ahn, Byungkon Kang, Kyung-Ah Sohn. Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network. ECCV 2018. [[Paper]](https://arxiv.org/abs/1803.08664)
+
+
