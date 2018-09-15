@@ -3,6 +3,8 @@ A list of resources for example-based single image super-resolution, inspired by
 
 By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us! Email: yapengtian@rochester.edu OR yulun100@gmail.com).
 
+Tip: For SR beginners, I recommend you to read some early learning based SISR works which will help understand the problem.
+
 ## Example-based methods
 
 ### Early learning-based methods
