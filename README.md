@@ -143,6 +143,8 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [46] Xintao Wang, Ke Yu, Shixiang Wu, Jinjin Gu, Yihao Liu, Chao Dong, Chen Change Loy, Yu Qiao, Xiaoou Tang. Enhanced Super-Resolution Generative Adversarial Networks. ECCV2018 PIRM Workshop. [[Code]](https://github.com/xinntao/ESRGAN)
 
+[47] Seong-Jin Park, Hyeongseok Son, Sunghyun Cho, Ki-Sang Hong. SRFeat: Single Image Super-Resolution with Feature Discrimination. ECCV 2018. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFea_Single_Image_ECCV_2018_paper.pdf)
+
 
 
 
