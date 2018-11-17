@@ -147,6 +147,6 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [47] Seong-Jin Park, Hyeongseok Son, Sunghyun Cho, Ki-Sang Hong. SRFeat: Single Image Super-Resolution with Feature Discrimination. ECCV 2018. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf)
 
-
+[48] Subeesh Vasu, Nimisha T. M., A. N. Rajagopalan. Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network. ECCV2018 PIRM Workshop. [[Code]](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw)
 
 
