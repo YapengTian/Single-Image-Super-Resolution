@@ -154,3 +154,5 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 [50] Xuecai Hu, Haoyuan Mu, Xiangyu Zhang, Zilei Wang, Jian Sun, Tieniu Tan. Meta-SR: A Magnification-Arbitrary Network for Super-Resolution. ArXiv, 2019. [[Paper]](https://arxiv.org/pdf/1903.00875.pdf)
 
 [51] Zhang, Kai and Zuo, Wangmeng and Zhang, Lei. Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels, CVPR 2019. [[Project]](https://github.com/cszn/DPSR)
+
+[52] Xuaner Zhang, Qifeng Chen, Ren Ng, and Vladlen Koltun. Zoom to Learn, Learn to Zoom, CVPR 2019. [[Paper]](http://vladlen.info/papers/zoom.pdf)
