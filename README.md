@@ -149,10 +149,12 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [48] Subeesh Vasu, Nimisha T. M., A. N. Rajagopalan. Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network. ECCV2018 PIRM Workshop. [[Code]](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw)
 
-[49] Xintao Wang, Ke Yu, Chao Dong, Xiaoou Tang, Chen Change Loy. Deep Network Interpolation for Continuous Imagery Effect Transition. CVPR 2019. [[Website]](https://xinntao.github.io/projects/DNI)
+[49] Vu, Thang and Van Nguyen, Cao and Pham, Trung X. and Luu, Tung M. and Yoo, Chang Dong. Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks. ECCV2018 PIRM Mobile Workshop [[Paper]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf) [[Code]](https://github.com/thangvubk/FEQE)
 
-[50] Xuecai Hu, Haoyuan Mu, Xiangyu Zhang, Zilei Wang, Jian Sun, Tieniu Tan. Meta-SR: A Magnification-Arbitrary Network for Super-Resolution. ArXiv, 2019. [[Paper]](https://arxiv.org/pdf/1903.00875.pdf)
+[50] Xintao Wang, Ke Yu, Chao Dong, Xiaoou Tang, Chen Change Loy. Deep Network Interpolation for Continuous Imagery Effect Transition. CVPR 2019. [[Website]](https://xinntao.github.io/projects/DNI)
 
-[51] Zhang, Kai and Zuo, Wangmeng and Zhang, Lei. Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels, CVPR 2019. [[Project]](https://github.com/cszn/DPSR)
+[51] Xuecai Hu, Haoyuan Mu, Xiangyu Zhang, Zilei Wang, Jian Sun, Tieniu Tan. Meta-SR: A Magnification-Arbitrary Network for Super-Resolution. ArXiv, 2019. [[Paper]](https://arxiv.org/pdf/1903.00875.pdf)
 
-[52] Xuaner Zhang, Qifeng Chen, Ren Ng, and Vladlen Koltun. Zoom to Learn, Learn to Zoom, CVPR 2019. [[Paper]](http://vladlen.info/papers/zoom.pdf)
+[52] Zhang, Kai and Zuo, Wangmeng and Zhang, Lei. Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels, CVPR 2019. [[Project]](https://github.com/cszn/DPSR)
+
+[53] Xuaner Zhang, Qifeng Chen, Ren Ng, and Vladlen Koltun. Zoom to Learn, Learn to Zoom, CVPR 2019. [[Paper]](http://vladlen.info/papers/zoom.pdf)
