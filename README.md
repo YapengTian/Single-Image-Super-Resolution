@@ -163,3 +163,7 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [55] Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, and Feng Wu.Camera Lens Super-Resolution, CVPR 2019. [[Paper]](https://arxiv.org/pdf/1904.03378.pdf)[[Code]](https://github.com/ngchc/CameraSR)
 
+[56] Zhifei Zhang, Zhaowen Wang, Zhe Lin, Hairong Qi. Image Super-Resolution by Neural Texture Transfer. CVPR 2019. [[Paper]](https://arxiv.org/pdf/1903.00834.pdf)
+
+[57] Tao Dai, Jianrui Cai, Yongbing Zhang, Shu-Tao Xia, Lei Zhang. Second-order Attention Network for Single Image Super-resolution. CVPR 2019. [[Project]](https://github.com/daitao/SAN)
+
