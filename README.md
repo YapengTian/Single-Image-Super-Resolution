@@ -5,6 +5,11 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 Tip: For SR beginners, I recommend you to read some early learning based SISR works which will help understand the problem.
 
+## Survey Paper
+
+[1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution:
+A Brief Review. TMM, 2019. [[Paper]](https://arxiv.org/pdf/1808.03344.pdf)
+
 ## Example-based methods
 
 ### Early learning-based methods
