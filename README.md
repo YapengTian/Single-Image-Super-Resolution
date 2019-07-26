@@ -178,3 +178,5 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [60] He, Xiangyu and Mo, Zitao and Wang, Peisong and Liu, Yang and Yang, Mingyuan and Cheng, Jian. ODE-Inspired Network Design for Single Image Super-Resolution. CVPR 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)
 
+[61] Wei Wang, Ruiming Guo, Yapeng Tian, Wenming Yang. CFSNet: Toward a Controllable Feature Space for Image Restoration, ICCV 2019. [[Paper]](https://arxiv.org/abs/1904.00634)
+
