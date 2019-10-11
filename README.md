@@ -184,7 +184,7 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [63] Ruofan Zhou, Sabine Süsstrunk. 	Kernel Modeling Super-Resolution on Real Low-Resolution Images. ICCV, 2019. [[Project]](https://ivrlwww.epfl.ch/ruofan/project_KMSR/KMSR.html)
 
-[64] Mohammad Saeed Rad, Behzad Bozorgtabar, Urs-Viktor Marti, Max Basler, Hazim Kemal Ekenel, Jean-Philippe Thiran. [[Paper]](https://arxiv.org/abs/1908.07222)
+[64] Mohammad Saeed Rad, Behzad Bozorgtabar, Urs-Viktor Marti, Max Basler, Hazim Kemal Ekenel, Jean-Philippe Thiran. SROBB: Targeted Perceptual Loss for Single Image Super-Resolution. ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.07222)
 
 [65] Jianrui Cai, Hui Zeng, Hongwei Yong, Zisheng Cao, Lei Zhang. Toward Real-World Single Image Super-Resolution: A New Benchmark and a New Model. ICCV, 2019. [[Paper]](https://arxiv.org/pdf/1904.00523.pdf)
 
