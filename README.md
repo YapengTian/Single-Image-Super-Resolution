@@ -180,3 +180,15 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [61] Wei Wang, Ruiming Guo, Yapeng Tian, Wenming Yang. CFSNet: Toward a Controllable Feature Space for Image Restoration, ICCV 2019. [[Paper]](https://arxiv.org/abs/1904.00634)
 
+[62] Jun-Ho Choi, Huan Zhang, Jun-Hyuk Kim, Cho-Jui Hsieh, Jong-Seok Lee. Evaluating Robustness of Deep Image Super-Resolution Against Adversarial Attacks, ICCV, 2019. [[Paper]](https://arxiv.org/pdf/1904.06097.pdf)
+
+[63] Ruofan Zhou, Sabine Süsstrunk. 	Kernel Modeling Super-Resolution on Real Low-Resolution Images. ICCV, 2019. [[Project]](https://ivrlwww.epfl.ch/ruofan/project_KMSR/KMSR.html)
+
+[64] Mohammad Saeed Rad, Behzad Bozorgtabar, Urs-Viktor Marti, Max Basler, Hazim Kemal Ekenel, Jean-Philippe Thiran. [[Paper]](https://arxiv.org/abs/1908.07222)
+
+[65] Jianrui Cai, Hui Zeng, Hongwei Yong, Zisheng Cao, Lei Zhang. Toward Real-World Single Image Super-Resolution: A New Benchmark and a New Model. ICCV, 2019. [[Paper]](https://arxiv.org/pdf/1904.00523.pdf)
+
+[66] Wenlong Zhang, Yihao Liu, Chao Dong, Yu Qiao. 	RankSRGAN: Generative Adversarial Networks With Ranker for Image Super-Resolution. [[Paper]](https://arxiv.org/abs/1908.06382)
+
+
+
