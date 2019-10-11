@@ -188,7 +188,7 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [65] Jianrui Cai, Hui Zeng, Hongwei Yong, Zisheng Cao, Lei Zhang. Toward Real-World Single Image Super-Resolution: A New Benchmark and a New Model. ICCV, 2019. [[Paper]](https://arxiv.org/pdf/1904.00523.pdf)
 
-[66] Wenlong Zhang, Yihao Liu, Chao Dong, Yu Qiao. 	RankSRGAN: Generative Adversarial Networks With Ranker for Image Super-Resolution. [[Paper]](https://arxiv.org/abs/1908.06382)
+[66] Wenlong Zhang, Yihao Liu, Chao Dong, Yu Qiao. 	RankSRGAN: Generative Adversarial Networks With Ranker for Image Super-Resolution. ICCV, 2019.[[Paper]](https://arxiv.org/abs/1908.06382)
 
 
 
