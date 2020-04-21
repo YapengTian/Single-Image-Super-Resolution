@@ -192,5 +192,7 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [67] Kai Zhang, Luc Van Gool, Radu Timofte. Deep Unfolding Network for Image Super-Resolution. CVPR 2020. [[Project]](https://github.com/cszn/USRNet)
 
+[68] Cheng Ma, Yongming Rao, Yean Cheng, Ce Chen, Jiwen Lu, Jie Zhou. Structure-Preserving Super Resolution with Gradient Guidance. CVPR 2020. [[Project]](https://arxiv.org/pdf/2003.13081.pdf)
+
 
 
