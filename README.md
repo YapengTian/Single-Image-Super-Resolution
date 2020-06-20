@@ -196,5 +196,27 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [69] Cheng Ma, Yongming Rao, Yean Cheng, Ce Chen, Jiwen Lu, Jie Zhou. Structure-Preserving Super Resolution with Gradient Guidance. CVPR 2020. [[Project]](https://arxiv.org/pdf/2003.13081.pdf)
 
+[70] Shunta Maeda. Unpaired Image Super-Resolution using Pseudo-Supervision. CVPR, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf)
+
+[71] Givi Meishvili, Simon Jenni, Paolo Favaro. Learning to Have an Ear for Face Super-Resolution. CVPR, 2020. [[Project]](https://gmeishvili.github.io/ear_for_face_super_resolution/index.html)
+
+[72] Shady Abu Hussein, Tom Tirer, Raja Giryes. Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers. CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Abu_Hussein_Correction_Filter_for_Single_Image_Super-Resolution_Robustifying_Off-the-Shelf_Deep_Super-Resolvers_CVPR_2020_paper.pdf)
+
+[73] Jie Liu, Wenjie Zhang, Yuting Tang, Jie Tang, Gangshan Wu. Residual Feature Aggregation Network for Image Super-Resolution, CVPR, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html)
+
+[74] Jae Woong Soh, Sunwoo Cho, Nam Ik Cho. Meta-Transfer Learning for Zero-Shot Super-Resolution. CVPR 2O2O. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Soh_Meta-Transfer_Learning_for_Zero-Shot_Super-Resolution_CVPR_2020_paper.html)
+
+[75] Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan. Closed-Loop Matters: Dual Regression Networks for Single Image Super-Resolution. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Closed-Loop_Matters_Dual_Regression_Networks_for_Single_Image_Super-Resolution_CVPR_2020_paper.html)
+
+[76] Yiqun Mei, Yuchen Fan, Yuqian Zhou, Lichao Huang, Thomas S. Huang, Honghui Shi. Image Super-Resolution With Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining. CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Mei_Image_Super-Resolution_With_Cross-Scale_Non-Local_Attention_and_Exhaustive_Self-Exemplars_Mining_CVPR_2020_paper.html)
+
+[77] Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo. Learning Texture Transformer Network for Image Super-Resolution, CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Learning_Texture_Transformer_Network_for_Image_Super-Resolution_CVPR_2020_paper.html)
+
+[78] Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn. Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy. CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.html)
+
+[79] Gyumin Shim, Jinsun Park, In So Kweon. Robust Reference-Based Super-Resolution With Similarity-Aware Deformable Convolution, CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.html)
+
+[80] Yu-Syuan Xu, Shou-Yao Roy Tseng, Yu Tseng, Hsien-Kai Kuo, Yi-Min Tsai. Unified Dynamic Convolutional Network for Super-Resolution With Variational Degradations, CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Unified_Dynamic_Convolutional_Network_for_Super-Resolution_With_Variational_Degradations_CVPR_2020_paper.html)
+
 
 
