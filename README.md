@@ -218,5 +218,32 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [80] Yu-Syuan Xu, Shou-Yao Roy Tseng, Yu Tseng, Hsien-Kai Kuo, Yi-Min Tsai. Unified Dynamic Convolutional Network for Super-Resolution With Variational Degradations, CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Unified_Dynamic_Convolutional_Network_for_Super-Resolution_With_Variational_Degradations_CVPR_2020_paper.html)
 
+[81] Yanchun Xie, Jimin Xiao, Mingjie Sun, Chao Yao, Kaizhu Huang. Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf)
+
+[82] Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte. SRFlow: Learning the Super-Resolution Space with Normalizing Flow. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500698.pdf)
+
+[83] Yulun Zhang, Zhifei Zhang, Stephen DiVerdi, Zhaowen Wang, Jose Echevarria, Yun Fu. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520205.pdf)
+
+[84] Pengxu Wei, Ziwei Xie, Hannan Lu, Zongyuan Zhan, Qixiang Ye, Wangmeng Zuo, Liang Lin. Component Divide-and-Conquer for Real-World Image Super-Resolution. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530103.pdf)
+
+[85] Ben Niu, Weilei Wen, Wenqi Ren, Xiangde Zhang, Lianping Yang, Shuzhen Wang, Kaihao Zhang, Xiaochun Cao, Haifeng Shen. Single Image Super-Resolution via a Holistic Attention Network. ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570188.pdf)
+
+[86] Majed El Helou, Ruofan Zhou, Sabine Süsstrunk. Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks. ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610732.pdf)
+
+[87] Xi Cheng, Zhenyong Fu, Jian Yang. Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks. ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620256.pdf)
+
+[88] Xiaotong Luo, Yuan Xie, Yulun Zhang, Yanyun Qu, Cuihua Li, Yun Fu. LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)
+
+[89] Sangeek Hyun, Jae-Pil Heo. VarSR: Variational Super-Resolution Network for Very Low Resolution Images. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf)
+
+[90] Wonkyung Lee, Junghyup Lee, Dohyung Kim, Bumsub Ham. Learning with Privileged Information for Efficient Image Super-Resolution. ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690460.pdf)
+
+[91] Huixia Li, Chenqian Yan, Shaohui Lin, Xiawu Zheng, Baochang Zhang, Fan Yang, Rongrong Ji. PAMS: Quantized Super-Resolution via Parameterized Max Scale. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700562.pdf)
+
+[92] Royson Lee, Łukasz Dudziak, Mohamed Abdelfattah, Stylianos I. Venieris, Hyeji Kim, Hongkai Wen, Nicholas D. Lane. Journey Towards Tiny Perceptual Super-Resolution. ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710086.pdf)
+
+[93] Seobin Park, Jinsu Yoo, Donghyeon Cho, Jiwon Kim, Tae Hyun Kim. Fast Adaptation to Super-Resolution Networks via Meta-Learning. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710086.pdfx)
+
+
 
 
