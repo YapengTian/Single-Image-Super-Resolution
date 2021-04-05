@@ -206,7 +206,7 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [74] Jie Liu, Wenjie Zhang, Yuting Tang, Jie Tang, Gangshan Wu. Residual Feature Aggregation Network for Image Super-Resolution, CVPR, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html)
 
-[75] Jae Woong Soh, Sunwoo Cho, Nam Ik Cho. Meta-Transfer Learning for Zero-Shot Super-Resolution. CVPR 2O2O. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Soh_Meta-Transfer_Learning_for_Zero-Shot_Super-Resolution_CVPR_2020_paper.html)
+[75] Jae Woong Soh, Sunwoo Cho, Nam Ik Cho. Meta-Transfer Learning for Zero-Shot Super-Resolution. CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Soh_Meta-Transfer_Learning_for_Zero-Shot_Super-Resolution_CVPR_2020_paper.html)
 
 [76] Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan. Closed-Loop Matters: Dual Regression Networks for Single Image Super-Resolution. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Closed-Loop_Matters_Dual_Regression_Networks_for_Single_Image_Super-Resolution_CVPR_2020_paper.html)
 
