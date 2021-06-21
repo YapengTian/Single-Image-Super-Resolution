@@ -168,7 +168,7 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [55] Zhen Li, Jinglei Yang, Zheng Liu, Xiaomin Yang, Gwanggil Jeon, and Wei Wu. Feedback Network for Image Super-Resolution, CVPR 2019. [[Paper]](https://arxiv.org/abs/1903.09814)[[Code]](https://github.com/Paper99/SRFBN_CVPR19)
 
-[56] Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, and Feng Wu.Camera Lens Super-Resolution, CVPR 2019. [[Paper]](https://arxiv.org/pdf/1904.03378.pdf)[[Code]](https://github.com/ngchc/CameraSR)
+[56] Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, and Feng Wu. Camera Lens Super-Resolution, CVPR 2019. [[Paper]](https://arxiv.org/pdf/1904.03378.pdf)[[Code]](https://github.com/ngchc/CameraSR)
 
 [57] Zhifei Zhang, Zhaowen Wang, Zhe Lin, Hairong Qi. Image Super-Resolution by Neural Texture Transfer. CVPR 2019. [[Paper]](https://arxiv.org/pdf/1903.00834.pdf)
 
@@ -224,7 +224,8 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 
 [83] Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte. SRFlow: Learning the Super-Resolution Space with Normalizing Flow. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500698.pdf)
 
-[84] Yulun Zhang, Zhifei Zhang, Stephen DiVerdi, Zhaowen Wang, Jose Echevarria, Yun Fu. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520205.pdf)
+[84] Yulun Zhang, Zhifei Zhang, Stephen DiVerdi, Zhaowen Wang, Jose Echevarria, Yun Fu. Texture Hallucination for Large-Factor Painting
+Super-Resolution. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520205.pdf)
 
 [85] Xiaotong Luo, Yuan Xie, Yulun Zhang, Yanyun Qu, Cuihua Li, Yun Fu. LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)
 
