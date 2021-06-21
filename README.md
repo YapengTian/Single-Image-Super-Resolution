@@ -1,7 +1,7 @@
 # Single-Image-Super-Resolution
 A list of resources for example-based single image super-resolution, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
 
-By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us! Email: yapengtian@rochester.edu OR yulun100@gmail.com).
+By [Yapeng Tian](https://github.com/YapengTian), [Yunlun Zhang](https://github.com/yulunzhang), [Xiaoyu Xiang](https://github.com/Mukosame) (if you have any suggestions, please contact us! Email: yapengtian@rochester.edu OR yulun100@gmail.com OR xiang43@purdue.edu).
 
 Tip: For SR beginners, I recommend you to read some early learning based SISR works which will help understand the problem.
 
@@ -249,4 +249,50 @@ Super-Resolution. ECCV, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/pa
 
 [95] Zhengxiong Luo, Yan Huang, Shang Li, Liang Wang, Tieniu Tan. Unfolding the Alternating Optimization for Blind Super Resolution. NeurIPS, 2020. [[Paper]](https://arxiv.org/pdf/2010.02631.pdf) [[Code]](https://github.com/greatlog/DAN)
 
+[96] Zheng Hui, Jie Li, Xiumei Wang, Xinbo Gao. Learning the Non-Differentiable Optimization for Blind Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Hui_Learning_the_Non-Differentiable_Optimization_for_Blind_Super-Resolution_CVPR_2021_paper.html) 
 
+[97] Jingyun Liang, Kai Zhang, Shuhang Gu, Luc Van Gool, Radu Timofte. Flow-Based Kernel Prior With Application to Blind Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liang_Flow-Based_Kernel_Prior_With_Application_to_Blind_Super-Resolution_CVPR_2021_paper.html) [[Code]](https://github.com/JingyunLiang/FKP)
+
+[98] Dehua Song, Yunhe Wang, Hanting Chen, Chang Xu, Chunjing Xu, Dacheng Tao. AdderSR: Towards Energy Efficient Image Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Song_AdderSR_Towards_Energy_Efficient_Image_Super-Resolution_CVPR_2021_paper.html)
+
+[99] Soo Ye Kim, Hyeonjun Sim, Munchurl Kim. KOALAnet: Blind Super-Resolution Using Kernel-Oriented Adaptive Local Adjustment. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Kim_KOALAnet_Blind_Super-Resolution_Using_Kernel-Oriented_Adaptive_Local_Adjustment_CVPR_2021_paper.html) [[Code]](https://github.com/hjSim/KOALAnet)
+
+[100] Longguang Wang, Xiaoyu Dong, Yingqian Wang, Xinyi Ying, Zaiping Lin, Wei An, Yulan Guo. Exploring Sparsity in Image Super-Resolution for Efficient Inference. CVPR 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Exploring_Sparsity_in_Image_Super-Resolution_for_Efficient_Inference_CVPR_2021_paper.html) [[Code]](https://github.com/LongguangWang/SMSR)
+
+[101] Xiangtao Kong, Hengyuan Zhao, Yu Qiao, Chao Dong. ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic. CVPR, 2021. [[Project]](https://openaccess.thecvf.com/content/CVPR2021/html/Kong_ClassSR_A_General_Framework_to_Accelerate_Super-Resolution_Networks_by_Data_CVPR_2021_paper.html) [[Code]](https://github.com/Xiangtaokong/ClassSR)
+
+[102] Yiqun Mei, Yuchen Fan, Yuqian Zhou. Image Super-Resolution with Non-Local Sparse Attention. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Mei_Image_Super-Resolution_With_Non-Local_Sparse_Attention_CVPR_2021_paper.html)
+
+[103] Yunxuan Wei, Shuhang Gu, Yawei Li, Radu Timofte, Longcun Jin, Hengjie Song. Unsupervised Real-World Image Super Resolution via Domain-Distance Aware Training. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wei_Unsupervised_Real-World_Image_Super_Resolution_via_Domain-Distance_Aware_Training_CVPR_2021_paper.html) [[Code]](https://github.com/ShuhangGu/DASR)
+
+[104] Guy Shacht, Dov Danon, Sharon Fogel, Daniel Cohen-Or. Single Pair Cross-Modality Super Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Shacht_Single_Pair_Cross-Modality_Super_Resolution_CVPR_2021_paper.html)
+
+[105] Wenzhu Xing, Karen Egiazarian. End-to-End Learning for Joint Image Demosaicing, Denoising and Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xing_End-to-End_Learning_for_Joint_Image_Demosaicing_Denoising_and_Super-Resolution_CVPR_2021_paper.html) 
+
+[106] Longguang Wang, Yingqian Wang, Xiaoyu Dong, Qingyu Xu, Jungang Yang, Wei An, Yulan Guo. Unsupervised Degradation Representation Learning for Blind Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Unsupervised_Degradation_Representation_Learning_for_Blind_Super-Resolution_CVPR_2021_paper.html) [[Code]](https://github.com/LongguangWang/DASR)
+
+[107] Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Deep Burst Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Bhat_Deep_Burst_Super-Resolution_CVPR_2021_paper.html) [[Code]](https://github.com/goutamgmb/NTIRE21_BURSTSR)
+
+[108] Sanghyun Son, Kyoung Mu Lee. SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Son_SRWarp_Generalized_Image_Super-Resolution_under_Arbitrary_Transformation_CVPR_2021_paper.html) [[Code]](https://github.com/sanghyun-son/srwarp)
+
+[109] Yulun Zhang, Kai Li, Kunpeng Li, Yun Fu. MR Image Super-Resolution With Squeeze and Excitation Reasoning Attention Network. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_MR_Image_Super-Resolution_With_Squeeze_and_Excitation_Reasoning_Attention_Network_CVPR_2021_paper.html) 
+
+[110] Aupendu Kar, Prabir Kumar Biswas. Fast Bayesian Uncertainty Estimation and Reduction of Batch Normalized Single Image Super-Resolution Network. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Kar_Fast_Bayesian_Uncertainty_Estimation_and_Reduction_of_Batch_Normalized_Single_CVPR_2021_paper.html) [[Project]](https://aupendu.github.io/sr-uncertainty)
+
+[111] Liying Lu, Wenbo Li, Xin Tao, Jiangbo Lu, Jiaya Jia. MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Lu_MASA-SR_Matching_Acceleration_and_Spatial_Adaptation_for_Reference-Based_Image_Super-Resolution_CVPR_2021_paper.html) [[Code]](https://github.com/dvlab-research/MASA-SR)
+
+[112] Yuemei Zhou, Gaochang Wu, Ying Fu, Kun Li, Yebin Liu. Cross-MPI: Cross-Scale Stereo for Image Super-Resolution Using Multiplane Images. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Cross-MPI_Cross-Scale_Stereo_for_Image_Super-Resolution_Using_Multiplane_Images_CVPR_2021_paper.html) [[Project]](http://www.liuyebin.com/crossMPI/crossMPI.html)
+
+[113] Younghyun Jo, Seon Joo Kim. Practical Single-Image Super-Resolution Using Look-Up Table. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Jo_Practical_Single-Image_Super-Resolution_Using_Look-Up_Table_CVPR_2021_paper.html)
+
+[114] Yuming Jiang, Kelvin C.K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu. Robust Reference-Based Super-Resolution via C2-Matching. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Robust_Reference-Based_Super-Resolution_via_C2-Matching_CVPR_2021_paper.html) [[Code]](https://github.com/yumingj/C2-Matching)
+
+[115] Jingye Chen, Bin Li, Xiangyang Xue. Scene Text Telescope: Text-Focused Scene Image Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.html) 
+
+[116] Yiman Zhang, Hanting Chen, Xinghao Chen, Yiping Deng, Chunjing Xu, Yunhe Wang. Data-Free Knowledge Distillation for Image Super-Resolution. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Data-Free_Knowledge_Distillation_for_Image_Super-Resolution_CVPR_2021_paper.html) 
+
+[117] Younghyun Jo, Seoung Wug Oh, Peter Vajda, Seon Joo Kim, Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.html) 
+
+[118] Kelvin C.K. Chan, Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy, GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution, CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Chan_GLEAN_Generative_Latent_Bank_for_Large-Factor_Image_Super-Resolution_CVPR_2021_paper.html) [[Project]](https://ckkelvinchan.github.io/projects/GLEAN/)
+
+[119] Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao. Pre-Trained Image Processing Transformer. CVPR, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.html) [[Code]](https://gitee.com/mindspore/mindspore/tree/master/model_zoo/research/cv/IPT)
