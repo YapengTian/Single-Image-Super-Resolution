@@ -35,7 +35,7 @@ A Brief Review. TMM, 2019. [[Paper]](https://arxiv.org/pdf/1808.03344.pdf)
 
 [2] Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, "Single Image Super-Resolution from Transformed Self-Exemplars", CVPR, 2015. [[Project]](https://github.com/jbhuang0604/SelfExSR).
 
-[3] Lantao Yu and Michael T. Orchard, "Single Image Interpolation Exploiting Semi-local Similarity", ICASSP, 2019. [[Papper]]([https://github.com/jbhuang0604/SelfExSR](https://ieeexplore.ieee.org/document/8682362)), [[Code]]([https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity]).
+[3] Lantao Yu and Michael T. Orchard, "Single Image Interpolation Exploiting Semi-local Similarity", ICASSP, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8682362), [[Code]](https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity).
 
 ### Locally Linear Regression
 
