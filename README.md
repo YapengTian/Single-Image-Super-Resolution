@@ -1,7 +1,7 @@
 # Single-Image-Super-Resolution
 A list of resources for example-based single image super-resolution, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
 
-By [Yapeng Tian](https://github.com/YapengTian), [Yunlun Zhang](https://github.com/yulunzhang), [Xiaoyu Xiang](https://github.com/Mukosame) (if you have any suggestions, please contact us! Email: yapengtian@rochester.edu OR yulun100@gmail.com OR xiang43@purdue.edu).
+By [Yapeng Tian](https://github.com/YapengTian), [Yunlun Zhang](https://github.com/yulunzhang), [Xiaoyu Xiang](https://github.com/Mukosame) (if you have any suggestions, please contact us! Email: yapeng.tian@utdallas.edu OR yulun100@gmail.com ORxiaoyu.xiang.ai@gmail.com).
 
 Tip: For SR beginners, I recommend you to read some early learning based SISR works which will help understand the problem.
 
@@ -29,11 +29,13 @@ A Brief Review. TMM, 2019. [[Paper]](https://arxiv.org/pdf/1808.03344.pdf)
 
 [4] Peleg, Tomer and Elad, Michael, A statistical prediction model based on sparse representations for single image super-resolution, TIP, 2014. [[Paper]](http://www.cs.technion.ac.il/~elad/publications/journals/2013/SingleImageSR_TIP.pdf) [[Code]](http://www.cs.technion.ac.il/~elad/software/) (Predict the relationships between Low-resolution and high-resolution representation coefficients.)
 
-### Super-resolution via self-examplars
+### Super-resolution via self-exemplars
 
 [1] Daniel Glasner, Shai Bagon and Michal, Irani, Super-Resolution from a Single Image, ICCV, 2009. [[Paper]](http://www.wisdom.weizmann.ac.il/~vision/single_image_SR/files/single_image_SR.pdf)
 
 [2] Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, "Single Image Super-Resolution from Transformed Self-Exemplars", CVPR, 2015. [[Project]](https://github.com/jbhuang0604/SelfExSR).
+
+[3] Lantao Yu and Michael T. Orchard, "Single Image Interpolation Exploiting Semi-local Similarity", ICASSP, 2019. [[Papper]]([https://github.com/jbhuang0604/SelfExSR](https://ieeexplore.ieee.org/document/8682362)), [[Code]]([https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity]).
 
 ### Locally Linear Regression
 
